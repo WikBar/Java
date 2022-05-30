@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Java
 
 Witam !!!
@@ -11,3 +12,6 @@ W przyszłości chciałbym rozbudować aplikację o możliwość prowadzenia his
 wykresy wskaźniki dla każdej waluty oraz historię ceny danej waluty. Aktualnie darmowe API NBP pozwala jedynie na śledzenie dziennej ceny każdej waluty.
 Dodanie złota jako jednej z "walut".
 
+=======
+# Java
+>>>>>>> 38ba439 (Initial commit)
