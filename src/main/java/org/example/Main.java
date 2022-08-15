@@ -1,6 +1,7 @@
 package org.example;
 
 import javax.swing.*;
+import java.awt.*;
 import java.io.IOException;
 import java.net.*;
 import java.util.Scanner;
@@ -8,6 +9,12 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) throws Exception {
 //Reading JSON with currencies from file
+        JFrame frame = new JFrame("Currency converter");
+        frame.setLayout(new FlowLayout());
+        frame.setVisible(true);
+        frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+        frame.setSize(700,800);
+
         String url= "http://api.nbp.pl/api/exchangerates/tables/A/";
         ReadJson readJson=null;
         try{
