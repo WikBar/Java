@@ -7,3 +7,5 @@ Mój pierwszy program to Currency Converter. Wykorzystuje on API Narodowego Bank
 Program jest wyposażony w interfejs użytkownika oraz podstawowe testy.
 
 W przyszłości chciałbym rozbudować aplikację o możliwość prowadzenia historii wymiany. Wprowadzić większą integrację oraz funkcjonalności pozwalające na analizę typu: wykresy wskaźniki dla każdej waluty oraz historię ceny danej waluty. Aktualnie darmowe API NBP pozwala jedynie na śledzenie dziennej ceny każdej waluty. Dodanie złota jako jednej z "walut".
+
+komentarze zostaną dodane wkrótce
